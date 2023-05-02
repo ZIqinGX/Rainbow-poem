@@ -9,3 +9,5 @@ I finished my homework this afternoon and want to learn sth about git hub.
 Weather is good.
 
 The key words for today are machine learning, deep learning and baking.:)
+
+I have followed the tutorial and now I am going to do that again.
