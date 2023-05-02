@@ -6,3 +6,6 @@ After that, I will push these change back to my github.
 
 Today is Tuesday. May 2nd.
 I finished my homework this afternoon and want to learn sth about git hub.
+Weather is good.
+
+The key words for today are machine learning, deep learning and baking.:)
