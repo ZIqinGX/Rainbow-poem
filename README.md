@@ -11,3 +11,6 @@ Weather is good.
 The key words for today are machine learning, deep learning and baking.:)
 
 I have followed the tutorial and now I am going to do that again. source of video is https://www.youtube.com/watch?v=yXT1ElMEkW8
+
+2023/May/3rd
+Hi I am practicing git commit, git push again
